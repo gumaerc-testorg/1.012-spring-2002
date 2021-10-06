@@ -1,0 +1,10 @@
+---
+description: ''
+file: /media/courses/1-012-introduction-to-civil-engineering-design-spring-2002/c0c38ddd517f67626548bd4feb221b7f_grallocation.gif
+file_location: /coursemedia/1-012-introduction-to-civil-engineering-design-spring-2002/c0c38ddd517f67626548bd4feb221b7f_grallocation.gif
+file_type: image/gif
+resourcetype: Image
+title: grallocation.gif
+type: resource
+uid: c0c38ddd-517f-6762-6548-bd4feb221b7f
+---

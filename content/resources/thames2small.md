@@ -1,0 +1,10 @@
+---
+description: ''
+file: /media/courses/1-012-introduction-to-civil-engineering-design-spring-2002/33e221ec471e0da5b3b2f5401cf8f256_thames2small.jpg
+file_location: /coursemedia/1-012-introduction-to-civil-engineering-design-spring-2002/33e221ec471e0da5b3b2f5401cf8f256_thames2small.jpg
+file_type: image/jpeg
+resourcetype: Image
+title: thames2small.jpg
+type: resource
+uid: 33e221ec-471e-0da5-b3b2-f5401cf8f256
+---

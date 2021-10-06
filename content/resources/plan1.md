@@ -1,0 +1,10 @@
+---
+description: ''
+file: /media/courses/1-012-introduction-to-civil-engineering-design-spring-2002/870401cb6910fbe104792d5c9be70def_plan1.gif
+file_location: /coursemedia/1-012-introduction-to-civil-engineering-design-spring-2002/870401cb6910fbe104792d5c9be70def_plan1.gif
+file_type: image/gif
+resourcetype: Image
+title: plan1.gif
+type: resource
+uid: 870401cb-6910-fbe1-0479-2d5c9be70def
+---
