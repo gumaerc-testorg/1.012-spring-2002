@@ -1,8 +1,8 @@
 ---
+content_type: page
 parent_title: Readings
 parent_uid: 7d6190cd-e900-dcc2-fa23-753356a2e788
 title: THE GREEN LINE - A Brief History
-type: page
 uid: 594f882d-29d0-c1c9-3201-59bfb9b4786a
 ---
 

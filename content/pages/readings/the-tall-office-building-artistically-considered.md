@@ -1,8 +1,8 @@
 ---
+content_type: page
 parent_title: Readings
 parent_uid: 7d6190cd-e900-dcc2-fa23-753356a2e788
 title: '"The Tall Office Building Artistically Considered"'
-type: page
 uid: c230862b-7900-9323-4aa1-c2022a0c510e
 ---
 

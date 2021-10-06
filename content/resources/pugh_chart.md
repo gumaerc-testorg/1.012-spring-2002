@@ -1,10 +1,10 @@
 ---
+content_type: resource
 description: ''
 file: /media/courses/1-012-introduction-to-civil-engineering-design-spring-2002/bea18b48f25f7ebda981b03143ccc20b_pugh_chart.jpg
 file_location: /coursemedia/1-012-introduction-to-civil-engineering-design-spring-2002/bea18b48f25f7ebda981b03143ccc20b_pugh_chart.jpg
 file_type: image/jpeg
 resourcetype: Image
 title: pugh_chart.jpg
-type: resource
 uid: bea18b48-f25f-7ebd-a981-b03143ccc20b
 ---

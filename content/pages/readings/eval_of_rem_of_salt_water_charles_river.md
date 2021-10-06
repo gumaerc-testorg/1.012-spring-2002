@@ -1,8 +1,8 @@
 ---
+content_type: page
 parent_title: Readings
 parent_uid: 7d6190cd-e900-dcc2-fa23-753356a2e788
 title: An evaluation of the removal of salt water from the Charles River
-type: page
 uid: 17373a8c-a4a5-d61f-eda6-ba2ea3aea10e
 ---
 

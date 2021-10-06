@@ -1,8 +1,8 @@
 ---
+content_type: page
 parent_title: Readings
 parent_uid: 7d6190cd-e900-dcc2-fa23-753356a2e788
 title: '"Welcome to the Charles River Dam", Metropolitan District Commission'
-type: page
 uid: 5a1ccfd1-37f0-1b04-2852-44a692e31693
 ---
 

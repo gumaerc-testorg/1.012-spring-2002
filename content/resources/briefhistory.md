@@ -1,4 +1,5 @@
 ---
+content_type: resource
 description: An account of the development of a portion of Boston's public transportation
   system.
 file: /media/courses/1-012-introduction-to-civil-engineering-design-spring-2002/51c5e37d5f6ef7e2391c4df0e0f7cc51_briefhistory.jpg
@@ -6,6 +7,5 @@ file_location: /coursemedia/1-012-introduction-to-civil-engineering-design-sprin
 file_type: image/jpeg
 resourcetype: Image
 title: briefhistory.jpg
-type: resource
 uid: 51c5e37d-5f6e-f7e2-391c-4df0e0f7cc51
 ---

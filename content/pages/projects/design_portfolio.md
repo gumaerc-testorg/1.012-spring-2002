@@ -1,8 +1,8 @@
 ---
+content_type: page
 parent_title: Projects
 parent_uid: f8b0d6b1-f7dd-6844-98e9-c108bc9a5a37
 title: Design Portfolio
-type: page
 uid: 5e9e7c15-f261-44e6-fd27-bb459822510e
 ---
 

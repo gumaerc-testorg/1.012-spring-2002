@@ -1,8 +1,8 @@
 ---
+content_type: page
 parent_title: Projects
 parent_uid: f8b0d6b1-f7dd-6844-98e9-c108bc9a5a37
 title: Function - Form - Material
-type: page
 uid: 2ddf5c88-968c-e3b8-5d51-8881194c0721
 ---
 

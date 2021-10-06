@@ -1,8 +1,8 @@
 ---
+content_type: page
 parent_title: Projects
 parent_uid: f8b0d6b1-f7dd-6844-98e9-c108bc9a5a37
 title: Having Developed Back Bay
-type: page
 uid: 49c52780-92c9-dea9-2875-46ad24756b35
 ---
 

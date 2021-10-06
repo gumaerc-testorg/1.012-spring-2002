@@ -1,8 +1,8 @@
 ---
+content_type: page
 parent_title: Projects
 parent_uid: f8b0d6b1-f7dd-6844-98e9-c108bc9a5a37
 title: Design Project - Industriplex
-type: page
 uid: efd65195-3799-9be8-48d4-d83b6094caed
 ---
 

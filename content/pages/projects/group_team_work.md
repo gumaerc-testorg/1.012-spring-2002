@@ -1,8 +1,8 @@
 ---
+content_type: page
 parent_title: Projects
 parent_uid: f8b0d6b1-f7dd-6844-98e9-c108bc9a5a37
 title: Group / Team Work
-type: page
 uid: 72ccab81-056d-75bd-0f46-a9498c6242f9
 ---
 

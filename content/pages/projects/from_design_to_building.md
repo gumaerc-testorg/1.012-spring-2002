@@ -1,8 +1,8 @@
 ---
+content_type: page
 parent_title: Projects
 parent_uid: f8b0d6b1-f7dd-6844-98e9-c108bc9a5a37
 title: From Designing to Building
-type: page
 uid: defaeb55-0476-b281-9fdb-cbbbca4f22bd
 ---
 

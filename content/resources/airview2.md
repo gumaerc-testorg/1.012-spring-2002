@@ -1,10 +1,10 @@
 ---
+content_type: resource
 description: ''
 file: /media/courses/1-012-introduction-to-civil-engineering-design-spring-2002/e12156f612913ffb350e81d173ddf248_airview2.gif
 file_location: /coursemedia/1-012-introduction-to-civil-engineering-design-spring-2002/e12156f612913ffb350e81d173ddf248_airview2.gif
 file_type: image/gif
 resourcetype: Image
 title: airview2.gif
-type: resource
 uid: e12156f6-1291-3ffb-350e-81d173ddf248
 ---

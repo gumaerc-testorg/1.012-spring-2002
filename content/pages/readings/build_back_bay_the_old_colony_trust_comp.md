@@ -1,8 +1,8 @@
 ---
+content_type: page
 parent_title: Readings
 parent_uid: 7d6190cd-e900-dcc2-fa23-753356a2e788
 title: '"Building the Back Bay", The Old Colony Trust Company, Boston MA, 1926'
-type: page
 uid: a36864a4-0799-ffad-ef70-8c0d870c01fd
 ---
 

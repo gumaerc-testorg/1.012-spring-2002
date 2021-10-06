@@ -1,8 +1,8 @@
 ---
+content_type: page
 parent_title: Readings
 parent_uid: 7d6190cd-e900-dcc2-fa23-753356a2e788
 title: Federal Organizations, Research Centers and Associations
-type: page
 uid: 33ac1026-c23f-d726-3c2e-227d111b1425
 ---
 

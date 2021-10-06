@@ -1,8 +1,8 @@
 ---
+content_type: page
 parent_title: Readings
 parent_uid: 7d6190cd-e900-dcc2-fa23-753356a2e788
 title: Short Summary of Filling Operations in Charles River Basin
-type: page
 uid: 8d0b5c35-f80b-5537-ece5-65e21f16efa2
 ---
 

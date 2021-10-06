@@ -1,8 +1,8 @@
 ---
+content_type: page
 parent_title: Projects
 parent_uid: f8b0d6b1-f7dd-6844-98e9-c108bc9a5a37
 title: Design Process
-type: page
 uid: 0f6dadf8-f26b-b1ff-f080-78b716435d2e
 ---
 

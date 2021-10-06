@@ -1,8 +1,8 @@
 ---
+content_type: page
 parent_title: Readings
 parent_uid: 7d6190cd-e900-dcc2-fa23-753356a2e788
 title: The Old Charles River Dam
-type: page
 uid: 2c3390c5-32e9-c856-7b45-e8ecc1663179
 ---
 

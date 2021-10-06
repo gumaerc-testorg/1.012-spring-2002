@@ -1,6 +1,6 @@
 ---
+content_type: page
 title: Syllabus
-type: page
 uid: 62f80711-9935-d4e8-9617-088b4ede3ef4
 ---
 

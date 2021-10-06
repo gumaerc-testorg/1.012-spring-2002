@@ -1,8 +1,8 @@
 ---
+content_type: page
 parent_title: Projects
 parent_uid: f8b0d6b1-f7dd-6844-98e9-c108bc9a5a37
 title: Green Line
-type: page
 uid: dcf7cf10-4737-fd7b-393e-cfb0a8393d21
 ---
 
