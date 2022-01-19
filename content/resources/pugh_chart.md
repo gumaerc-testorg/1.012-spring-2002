@@ -1,9 +1,12 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/1-012-introduction-to-civil-engineering-design-spring-2002/bea18b48f25f7ebda981b03143ccc20b_pugh_chart.jpg
-file_location: /coursemedia/1-012-introduction-to-civil-engineering-design-spring-2002/bea18b48f25f7ebda981b03143ccc20b_pugh_chart.jpg
+file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/1-012-introduction-to-civil-engineering-design-spring-2002/bea18b48f25f7ebda981b03143ccc20b_pugh_chart.jpg
 file_type: image/jpeg
+image_metadata:
+  caption: ''
+  credit: ''
+  image-alt: ''
 resourcetype: Image
 title: pugh_chart.jpg
 uid: bea18b48-f25f-7ebd-a981-b03143ccc20b
