@@ -1,12 +1,17 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/1-012-introduction-to-civil-engineering-design-spring-2002/ba754123d799f7f1054c48df5948bc3a_wells.gif
+file: /media/courses/1-012-introduction-to-civil-engineering-design-spring-2002/ba754123d799f7f1054c48df5948bc3a_wells.gif
 file_type: image/gif
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types:
+- Projects
+ocw_type: OCWImage
+parent_title: Projects
+parent_type: CourseSection
 resourcetype: Image
 title: wells.gif
 uid: ba754123-d799-f7f1-054c-48df5948bc3a

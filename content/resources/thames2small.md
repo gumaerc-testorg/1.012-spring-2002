@@ -1,12 +1,17 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/1-012-introduction-to-civil-engineering-design-spring-2002/33e221ec471e0da5b3b2f5401cf8f256_thames2small.jpg
+file: /media/courses/1-012-introduction-to-civil-engineering-design-spring-2002/33e221ec471e0da5b3b2f5401cf8f256_thames2small.jpg
 file_type: image/jpeg
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types:
+- Projects
+ocw_type: OCWImage
+parent_title: Projects
+parent_type: CourseSection
 resourcetype: Image
 title: thames2small.jpg
 uid: 33e221ec-471e-0da5-b3b2-f5401cf8f256

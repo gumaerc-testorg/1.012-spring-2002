@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Projects
+ocw_type: CourseSection
 parent_title: Projects
+parent_type: CourseSection
 parent_uid: f8b0d6b1-f7dd-6844-98e9-c108bc9a5a37
 title: Function - Form - Material
 uid: 2ddf5c88-968c-e3b8-5d51-8881194c0721

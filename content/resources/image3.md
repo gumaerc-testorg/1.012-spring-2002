@@ -2,12 +2,17 @@
 content_type: resource
 description: 'How to Make A Screen Shot from Microstation? into a JPG file In 4 Easy
   Steps: Image Capture'
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/1-012-introduction-to-civil-engineering-design-spring-2002/5c6286a09e87ad139c49454fa8c0e449_image3.jpg
+file: /media/courses/1-012-introduction-to-civil-engineering-design-spring-2002/5c6286a09e87ad139c49454fa8c0e449_image3.jpg
 file_type: image/jpeg
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types:
+- Projects
+ocw_type: OCWImage
+parent_title: Projects
+parent_type: CourseSection
 resourcetype: Image
 title: image3.jpg
 uid: 5c6286a0-9e87-ad13-9c49-454fa8c0e449

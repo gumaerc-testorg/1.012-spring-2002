@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Projects
+ocw_type: CourseSection
 parent_title: Projects
+parent_type: CourseSection
 parent_uid: f8b0d6b1-f7dd-6844-98e9-c108bc9a5a37
 title: Delta Design - The Design Task
 uid: 7367fa60-9ec7-d9d0-1b18-6bd717e6ab50

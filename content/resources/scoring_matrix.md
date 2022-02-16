@@ -1,12 +1,17 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/1-012-introduction-to-civil-engineering-design-spring-2002/f96097b0cb2a68addaa32c58e5f8e444_scoring_matrix.jpg
+file: /media/courses/1-012-introduction-to-civil-engineering-design-spring-2002/f96097b0cb2a68addaa32c58e5f8e444_scoring_matrix.jpg
 file_type: image/jpeg
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types:
+- Projects
+ocw_type: OCWImage
+parent_title: Projects
+parent_type: CourseSection
 resourcetype: Image
 title: scoring_matrix.jpg
 uid: f96097b0-cb2a-68ad-daa3-2c58e5f8e444

@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 parent_title: Readings
+parent_type: CourseSection
 parent_uid: 7d6190cd-e900-dcc2-fa23-753356a2e788
 title: Short Summary of Filling Operations in Charles River Basin
 uid: 8d0b5c35-f80b-5537-ece5-65e21f16efa2
@@ -11,7 +15,7 @@ Based on MIT S.M. thesis by Raymond K. S. Ty (1987).
 Boston Peninsula
 ----------------
 
-Surface area initally < 500 acres, only narrow neck (today's Washington St.) was the connection to the mainland, in several locations along the shore there were marshes, several hills served as filling material
+Surface area initally \< 500 acres, only narrow neck (today's Washington St.) was the connection to the mainland, in several locations along the shore there were marshes, several hills served as filling material
 
 {{< tableopen >}}
 {{< tropen >}}

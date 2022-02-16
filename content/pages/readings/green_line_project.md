@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 parent_title: Readings
+parent_type: CourseSection
 parent_uid: 7d6190cd-e900-dcc2-fa23-753356a2e788
 title: Boston Transit Milestones
 uid: c4bbfb2d-b019-e6a8-71bf-b80f978dbdd7

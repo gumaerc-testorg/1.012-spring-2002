@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Projects
+ocw_type: CourseSection
 parent_title: Projects
+parent_type: CourseSection
 parent_uid: f8b0d6b1-f7dd-6844-98e9-c108bc9a5a37
 title: Design Portfolio
 uid: 5e9e7c15-f261-44e6-fd27-bb459822510e
