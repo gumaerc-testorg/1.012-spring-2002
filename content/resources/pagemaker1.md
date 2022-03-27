@@ -12,6 +12,7 @@ learning_resource_types:
 ocw_type: OCWImage
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: f8b0d6b1-f7dd-6844-98e9-c108bc9a5a37
 resourcetype: Image
 title: pagemaker1.jpg
 uid: 7f0a89c1-ebd7-3bd5-dd6a-39997e1a54ca

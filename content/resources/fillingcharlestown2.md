@@ -12,6 +12,7 @@ learning_resource_types:
 ocw_type: OCWImage
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 7d6190cd-e900-dcc2-fa23-753356a2e788
 resourcetype: Image
 title: fillingcharlestown2.jpg
 uid: a58d2b29-413c-3b44-0288-dfb243648afc
