@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 learning_resource_types:
 - Projects
 ocw_type: CourseSection
@@ -46,7 +47,7 @@ The buildings and streets on the original peninsula are the way they are at pres
 Geology, Rules of Thumb for Foundations
 ---------------------------------------
 
-A typical soil profile of the present Back Bay is shown in [Figure 1]({{< baseurl >}}/resources/soilprofile). One-story buildings can be placed directly on the fill without basement, 3-5 story buildings can be placed on the fill with a 1 story basement, higher buildings require correspondingly more basements. High rises up to 15 stories can be put on piles reaching into the till; higher buildings have to be put on piles reaching the bedrock. Clearly deeper foundations cause higher costs. (Note: There was no fill when the original Back Bay existed)
+A typical soil profile of the present Back Bay is shown in {{% resource_link 9db95ec1-395c-4df1-03f5-ddcb209d13d9 "Figure 1" %}}. One-story buildings can be placed directly on the fill without basement, 3-5 story buildings can be placed on the fill with a 1 story basement, higher buildings require correspondingly more basements. High rises up to 15 stories can be put on piles reaching into the till; higher buildings have to be put on piles reaching the bedrock. Clearly deeper foundations cause higher costs. (Note: There was no fill when the original Back Bay existed)
 
 As indicated earlier, you should work with the most modern construction technology and materials. If you want to fill the area with soil before building, you can either use gravel from gravel pits in the Needham area or from dredging in the Charles River next to Back Bay. (You need to think about the consequences using these material resources, however.)
 

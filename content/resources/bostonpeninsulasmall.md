@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/1-012-introduction-to-civil-engineering-design-spring-2002/91dc286ac4521a8dcb419dba856adede_bostonpeninsulasmall.jpg
+file: /courses/1-012-introduction-to-civil-engineering-design-spring-2002/91dc286ac4521a8dcb419dba856adede_bostonpeninsulasmall.jpg
 file_type: image/jpeg
 image_metadata:
   caption: ''

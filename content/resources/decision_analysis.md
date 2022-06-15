@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/1-012-introduction-to-civil-engineering-design-spring-2002/597fa4beb4a86ef1bb308dcc7d1b7c1f_decision_analysis.jpg
+file: /courses/1-012-introduction-to-civil-engineering-design-spring-2002/597fa4beb4a86ef1bb308dcc7d1b7c1f_decision_analysis.jpg
 file_type: image/jpeg
 image_metadata:
   caption: ''

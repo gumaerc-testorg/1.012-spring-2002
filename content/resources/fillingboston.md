@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/1-012-introduction-to-civil-engineering-design-spring-2002/1156eea85da61943a0b7aad0b84a212b_fillingboston.jpg
+file: /courses/1-012-introduction-to-civil-engineering-design-spring-2002/1156eea85da61943a0b7aad0b84a212b_fillingboston.jpg
 file_type: image/jpeg
 image_metadata:
   caption: ''

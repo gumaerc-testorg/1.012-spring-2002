@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Park System (Boston) Common to Franklin Park
-file: /media/courses/1-012-introduction-to-civil-engineering-design-spring-2002/b1c37d94c1f47e8e1c6b04db446d2dc3_koelec1.gif
+file: /courses/1-012-introduction-to-civil-engineering-design-spring-2002/b1c37d94c1f47e8e1c6b04db446d2dc3_koelec1.gif
 file_type: image/gif
 image_metadata:
   caption: ''
@@ -17,3 +17,5 @@ resourcetype: Image
 title: koelec1.gif
 uid: b1c37d94-c1f4-7e8e-1c6b-04db446d2dc3
 ---
+Park System (Boston) Common to Franklin Park
+

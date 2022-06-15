@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 learning_resource_types:
 - Projects
 ocw_type: CourseSection
@@ -50,7 +51,7 @@ Present a calculation which „proves" that the coat-stand has an adequate facto
  
 {{< tdclose >}}
 {{< tdopen >}}
-![Coat-stand.](/courses/civil-and-environmental-engineering/1-012-introduction-to-civil-engineering-design-spring-2002/projects/coatstandpicture1.jpg)
+{{< resource "742a09c1-4e6b-bb84-2876-df7f49b17c61" >}}
 {{< tdclose >}}
 
 {{< trclose >}}

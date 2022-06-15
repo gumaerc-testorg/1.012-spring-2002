@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/1-012-introduction-to-civil-engineering-design-spring-2002/e3b81ee18420ebad1771b71cc2a8fd9a_grallocationb.gif
+file: /courses/1-012-introduction-to-civil-engineering-design-spring-2002/e3b81ee18420ebad1771b71cc2a8fd9a_grallocationb.gif
 file_type: image/gif
 image_metadata:
   caption: ''
