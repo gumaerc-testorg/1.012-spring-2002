@@ -9,6 +9,7 @@ image_metadata:
   image-alt: ''
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Projects
 parent_type: CourseSection
@@ -18,4 +19,3 @@ title: soilprofile.jpg
 uid: 9db95ec1-395c-4df1-03f5-ddcb209d13d9
 ---
 A typical soil profile of the present Back Bay
-

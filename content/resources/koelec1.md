@@ -9,6 +9,7 @@ image_metadata:
   image-alt: ''
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Readings
 parent_type: CourseSection
@@ -18,4 +19,3 @@ title: koelec1.gif
 uid: b1c37d94-c1f4-7e8e-1c6b-04db446d2dc3
 ---
 Park System (Boston) Common to Franklin Park
-

@@ -10,6 +10,7 @@ image_metadata:
   image-alt: ''
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Projects
 parent_type: CourseSection
@@ -19,4 +20,3 @@ title: image4.jpg
 uid: 68832cb2-4776-7508-d06f-a36d2146ffa3
 ---
 How to Make A Screen Shot from Microstation? into a JPG file In 4 Easy Steps: Screen Capture Dialog
-

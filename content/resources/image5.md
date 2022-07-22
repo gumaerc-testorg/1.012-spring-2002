@@ -9,6 +9,7 @@ image_metadata:
   image-alt: ''
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Projects
 parent_type: CourseSection
@@ -18,4 +19,3 @@ title: image5.jpg
 uid: af0e6493-19c7-b264-b2e2-565ebfce3d64
 ---
 How to Scan Images: Capture Screen Output
-

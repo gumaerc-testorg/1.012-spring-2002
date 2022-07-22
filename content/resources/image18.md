@@ -9,6 +9,7 @@ image_metadata:
   image-alt: ''
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Projects
 parent_type: CourseSection
@@ -18,4 +19,3 @@ title: image18.jpg
 uid: 38491674-3d99-e697-007a-02f08cf8a081
 ---
 Preparing your portfolio for HTML: Export HTML window
-

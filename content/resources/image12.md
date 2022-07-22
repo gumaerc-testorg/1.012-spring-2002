@@ -9,6 +9,7 @@ image_metadata:
   image-alt: ''
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Projects
 parent_type: CourseSection
@@ -18,4 +19,3 @@ title: image12.jpg
 uid: 18a853c5-9ecb-1638-d779-fa53d6967235
 ---
 How to use the SGI cameras: camera window
-

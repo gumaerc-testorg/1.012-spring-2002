@@ -10,6 +10,7 @@ image_metadata:
   image-alt: ''
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Projects
 parent_type: CourseSection
@@ -19,4 +20,3 @@ title: delta_picture1.jpg
 uid: 18f81685-042d-afa4-3b9d-a6a5ffa82782
 ---
 Architectural drawing set in fictional "Deltoid Space," a two-dimensional environment.
-

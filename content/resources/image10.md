@@ -10,6 +10,7 @@ image_metadata:
   image-alt: ''
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Projects
 parent_type: CourseSection
@@ -19,4 +20,3 @@ title: image10.jpg
 uid: 7c00ddf5-f56a-b450-79a4-5152f9983055
 ---
 How to download pictures from the digital camera: View picture dialog box
-

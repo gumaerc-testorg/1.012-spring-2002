@@ -9,6 +9,7 @@ image_metadata:
   image-alt: ''
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Projects
 parent_type: CourseSection
@@ -18,4 +19,3 @@ title: image9.jpg
 uid: a3274216-7f50-2e24-d6f7-fe5d792a3f07
 ---
 How to download pictures from the digital camera: View slides in camera
-

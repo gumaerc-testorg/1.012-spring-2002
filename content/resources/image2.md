@@ -9,6 +9,7 @@ image_metadata:
   image-alt: ''
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Projects
 parent_type: CourseSection
@@ -18,4 +19,3 @@ title: image2.jpg
 uid: 9f5cd43a-52e7-78a1-8d39-ef1b43380435
 ---
 How to Scan Images: Epson Twain screenshot
-
