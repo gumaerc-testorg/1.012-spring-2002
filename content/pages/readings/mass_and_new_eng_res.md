@@ -11,18 +11,18 @@ title: Massachusetts and New England Resources
 uid: 6e4919c0-5aaf-23b5-893a-a9dda8a943e6
 ---
 
-[Environmental Protection Agency - New England](http://www.epa.gov/Region1/)
+{{% resource_link "6aff1441-45c6-4e50-838f-b4501cc1c664" "Environmental Protection Agency - New England" %}}
 
-[The Executive Office of Environmental Affairs](http://www.state.ma.us/envir/)
+{{% resource_link "23f1e4be-e95a-452c-a465-496ea914912c" "The Executive Office of Environmental Affairs" %}}
 
-[Massachusetts Water Resource Authority](http://www.mwra.state.ma.us/)
+{{% resource_link "354ab026-4f2e-488c-bb01-02ae2da42e64" "Massachusetts Water Resource Authority" %}}
 
-[Massachusetts State Forests and Parks](http://www.state.ma.us/dem/forparks.htm)
+{{% resource_link "af34f563-6166-430d-814a-9d58f31da063" "Massachusetts State Forests and Parks" %}}
 
-[Metropolitan District Commission](http://www.state.ma.us/mdc/)
+{{% resource_link "eb3f2759-225a-465c-bc33-4a317bafdcec" "Metropolitan District Commission" %}}
 
-[Massachusetts Port Authority (MassPort)](http://www.massport.com/)
+{{% resource_link "c929c755-1573-45b6-a59d-5117d7b70165" "Massachusetts Port Authority (MassPort)" %}}
 
-[Massachusetts Bay Transportation Authority (MBTA)](http://www.mbta.com/)
+{{% resource_link "514ff078-292e-48ed-8a33-f5adc24c7b80" "Massachusetts Bay Transportation Authority (MBTA)" %}}
 
-[Massachusetts Highway Department (MHD)](http://www.magnet.state.ma.us/mhd/home.htm)
+{{% resource_link "ba0882d3-7fea-4f5f-b980-6b2900f3d1ec" "Massachusetts Highway Department (MHD)" %}}
