@@ -15,30 +15,29 @@ Bridges
 -------
 
 These links feature some of the most recent and innovative bridge projects all over the world:  
-[  
-Tsing Ma bridge](http://bridgeinfo.net/bridge/index.php?ID=152)  
-[Matsuo Bridge Co., Ltd.](https://www.infrontanalytics.com/fe-EN/90421FJ/Matsuo-Bridge-Co-Ltd/market-valuation)  
-[Höga Kusten bridge](http://www.hogakusten.com/)  
-[Øresund](http://uk.oresundsbron.com/page/1087)
+{{% resource_link "ae349e97-f633-40af-92b5-28909f0e1fc1" "   Tsing Ma bridge" %}}  
+{{% resource_link "a1ac16c2-9e7a-44b9-8e96-51377961b626" "Matsuo Bridge Co., Ltd." %}}  
+{{% resource_link "8f305643-f505-42b0-92bb-d6105d6d141d" "Höga Kusten bridge" %}}  
+{{% resource_link "1f1e93d3-3397-4a26-97d4-e29d39b5d46a" "Øresund" %}}
 
 Tunnels
 
-Link between Great Britain and Continental Europe: [Channel Tunnel](http://www.eurotunnel.com/)
+Link between Great Britain and Continental Europe: {{% resource_link "b885d103-1086-4a2b-b809-870499172ddf" "Channel Tunnel" %}}
 
-This is one of the largest project in the United States: [Central Artery Tunnel - Boston](https://www.bechtel.com/projects/boston-central-artery/)
+This is one of the largest project in the United States: {{% resource_link "9f918bf2-e7cb-4fdc-bf26-70c0db80d9e5" "Central Artery Tunnel - Boston" %}}
 
 Dams
 ----
 
 These links feature some of the major dam projects in the world:  
   
-[Glen Canyon Dam](https://www.usbr.gov/uc/rm/crsp/gc/)  
-[Grand Coulee Dam](http://users.owt.com/chubbard/gcdam/html/gallery.html)  
-[Three Gorges Dam](http://www.washingtonpost.com/wp-srv/inatl/longterm/yangtze/stories/facts.htm)  
-[Los Angeles Dam](http://quake.wr.usgs.gov/QUAKES/FactSheets/LADamStory/)
+{{% resource_link "d874f084-3196-493d-9686-76803944527f" "Glen Canyon Dam" %}}  
+{{% resource_link "e57be662-6773-4592-9e68-ae0a54cfde5c" "Grand Coulee Dam" %}}  
+{{% resource_link "138d27bf-3b10-45d7-9384-57398e7d160a" "Three Gorges Dam" %}}  
+{{% resource_link "358b826d-79a0-4ca0-b6f8-bdcae7531bd1" "Los Angeles Dam" %}}
 
 A report about the performance of dams during the Kobe earthquake
 
 Some famous dam failures:
 
-[St. Francis Dam](http://en.wikipedia.org/wiki/St._Francis_Dam)
+{{% resource_link "5a84ec69-537d-4b8f-97c0-02c4d588a622" "St. Francis Dam" %}}
