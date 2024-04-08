@@ -58,8 +58,8 @@ One of the options you may consider is to close off the Charles River from Bosto
 
 Several cities have installed facilities to protect themselves from high tides. Here are some examples:
 
-*   **London:** The Thames barriers are open during normal operation but close during surge tides. (see [Flood London](http://www.flood-london.com/)).
-*   **Venice:** To protect the lagoon from high tides a new barrier system is proposed (see the [Mobile Flood Barriers](http://www.architectureweek.com/2001/0815/building_1-1.html)).
+*   **London:** The Thames barriers are open during normal operation but close during surge tides. (see {{% resource_link "7d381cfa-d60e-4e80-8dfb-3929bf68cfbf" "Flood London" %}}).
+*   **Venice:** To protect the lagoon from high tides a new barrier system is proposed (see the {{% resource_link "0e308667-ea8c-4eda-b5a6-e1dd9efff33b" "Mobile Flood Barriers" %}}).
 
 Deliverables
 ------------
