@@ -26,7 +26,6 @@ uid: 7d6190cd-e900-dcc2-fa23-753356a2e788
 6. Hall, M. "Flood Control." *The Charles, the Peoples River.* Olympic Marketing Corporation, May 1986.
 7. {{% resource_link "ee58b07b-d704-20f6-c849-d600acba24d8" "Alternatives for the New Charles River Dam" %}}: The Department of the Army New England Division Corps of Engineers, "Charles River Dam, Design Memorandum No. 2," 1972.
 8. "Historic Back Bay poised to expand commercial focus: With Boston's office space tighter than ever, Back Bay has become an attractive alternative." *Boston Business Journal Real Estate Quarterly* (January 22-28, 1999).
-9. {{% resource_link "0306299d-2be6-4004-b7d4-38e9ba22396c" "General Information on Park Area and Development" %}}
 
 ## Readings for the Green Line Project
 
