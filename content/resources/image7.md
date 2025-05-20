@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'How to download pictures from the digital camera: Opening the chooser'
-file: /ol-ocw-studio-app/courses/1-012-introduction-to-civil-engineering-design-spring-2002/b2c8424c69f48d7b6b6f0075874fe8fb_image7.jpg
+file: /courses/1-012-introduction-to-civil-engineering-design-spring-2002/b2c8424c69f48d7b6b6f0075874fe8fb_image7.jpg
 file_size: 50992
 file_type: image/jpeg
 image_metadata:
