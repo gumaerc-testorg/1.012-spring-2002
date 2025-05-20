@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/1-012-introduction-to-civil-engineering-design-spring-2002/bea18b48f25f7ebda981b03143ccc20b_pugh_chart.jpg
+file: /courses/1-012-introduction-to-civil-engineering-design-spring-2002/bea18b48f25f7ebda981b03143ccc20b_pugh_chart.jpg
 file_size: 47809
 file_type: image/jpeg
 image_metadata:

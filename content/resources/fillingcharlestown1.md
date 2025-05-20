@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/1-012-introduction-to-civil-engineering-design-spring-2002/bf0d4279953074ba4bd0b63b3d28c868_fillingcharlestown1.jpg
+file: /courses/1-012-introduction-to-civil-engineering-design-spring-2002/bf0d4279953074ba4bd0b63b3d28c868_fillingcharlestown1.jpg
 file_size: 27006
 file_type: image/jpeg
 image_metadata:
