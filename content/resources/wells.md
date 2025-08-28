@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/1-012-introduction-to-civil-engineering-design-spring-2002/ba754123d799f7f1054c48df5948bc3a_wells.gif
+file: /ol-ocw-studio-app/courses/1-012-introduction-to-civil-engineering-design-spring-2002/ba754123d799f7f1054c48df5948bc3a_wells.gif
 file_size: 95531
 file_type: image/gif
 image_metadata:
